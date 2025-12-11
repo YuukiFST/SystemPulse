@@ -1,6 +1,6 @@
 # SystemPulse
 
-A Windows system diagnostics and optimization tool with a modern dark-themed GUI.
+A Windows system diagnostics and monitoring tool.
 
 ## Features
 
