@@ -1,0 +1,7 @@
+{
+  "projectId": "0ecbf0b9-9c2f-405e-bd97-8740ec70b6fc",
+  "createdAt": 1765391251305,
+  "startupCommands": [
+    "pip install customtkinter pillow; python main.py"
+  ]
+}
