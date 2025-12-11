@@ -24,19 +24,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-```bash
-python main.py
-```
-
-Or download the pre-built executable from [Releases](https://github.com/yourusername/SystemPulse/releases).
-
-## Building Executable
-
-```bash
-pyinstaller --onefile --windowed --name SystemPulse --icon resources/icon.ico --add-data resources;resources main.py
-```
-
-The executable will be created in the `dist/` folder.
+[Releases](https://github.com/yourusername/SystemPulse/releases).
 
 ## License
 
