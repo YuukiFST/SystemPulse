@@ -8,7 +8,7 @@ from typing import Optional
 
 def get_resource_path() -> Path:
     if getattr(sys, 'frozen', False):
-        return Path(sys._MEIPASS) / "winforge" / "resources"
+        return Path(sys._MEIPASS) / "resources"
     return Path(__file__).parent.parent / "resources"
 
 

@@ -69,7 +69,7 @@ class PhysicalCoresDialog(ScrollableDialog):
             parent,
             title="CPU Core Inspector",
             header_text="CPU Core Information",
-            geometry="540x520",
+            geometry="580x520",
             accent_color=ACCENT_CYAN
         )
         self._load_cpu_info()
@@ -180,7 +180,7 @@ class PhysicalCoresDialog(ScrollableDialog):
             color, label = self._get_core_color_label(cpu, i, ht_status)
             
             core_btn = ctk.CTkButton(
-                core_frame, text=f"{i}\n{label}", width=48, height=48,
+                core_frame, text=f"{i}\n{label}", width=44, height=44,
                 fg_color=color, hover_color=color, text_color="#ffffff",
                 font=ctk.CTkFont(family="Segoe UI", size=10, weight="bold"),
                 corner_radius=6
