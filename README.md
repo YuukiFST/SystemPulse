@@ -4,12 +4,13 @@ A Windows system diagnostics and monitoring tool.
 
 ## Features
 
-- **CPU Core Inspector** - Analyze physical CPU cores and configuration
-- **Disk Health Scan** - Check disk integrity and corruption
-- **USB Chipset Mapper** - Map USB controllers and latency info
-- **Network Latency Tester** - Test network response times
-- **Driver Registry Viewer** - Browse driver registry keys
-- **Dependency Map** - Visualize Windows service dependencies
+- **CPU Inspector** - Analyze physical CPU cores and configuration
+- **Disk Scanner** - Check disk integrity and corruption
+- **USB Mapper** - Map USB controllers and latency info
+- **Network Probe** - Test network response times
+- **NIC Feature Scanner** - Check if some network features are supported on your driver
+- **Driver Registry** - Browse driver registry keys
+- **Servuce Map** - Visualize Windows service dependencies
 
 ## Requirements
 
