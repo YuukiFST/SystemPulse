@@ -10,7 +10,7 @@ A Windows system diagnostics and monitoring tool.
 - **Network Probe** - Test network response times
 - **NIC Feature Scanner** - Check if some network features are supported on your driver
 - **Driver Registry** - Browse driver registry keys
-- **Servuce Map** - Visualize Windows service dependencies
+- **Service Map** - Visualize Windows service dependencies
 
 ## Requirements
 
